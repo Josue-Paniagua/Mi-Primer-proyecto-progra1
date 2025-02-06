@@ -4,3 +4,4 @@ Este es un proyecto de practica para familiarizar el primer contacto en el ambie
 "INTEGRANTES"
 Josue David Paniagua Olivares 
 Mario Eduardo Rivera Salguero 
+Aprendí a usar Git, GitHub y a hacer commits.
