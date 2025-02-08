@@ -6,4 +6,4 @@ Josue David Paniagua Olivares
 Mario Eduardo Rivera Salguero 
 Aprendí a usar Git, GitHub y a hacer commits.
 
- Mi primer proyecto este el cambio que hice en mi rama algo un punto
+Mario: Aprendí a instalar git en mi dispositivo windows, iniciar un nuevo repositorio en una carpeta, agregar archivos y realizar un commit.
